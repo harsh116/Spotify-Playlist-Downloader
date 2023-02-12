@@ -6,4 +6,4 @@ https://spotifyplaylistdownloader.onrender.com/
 3. Used youtube api to get search results based on song name and artist
 4. Used y2core module to extract audio from youtube url.
 5. Used redis cache to store the cloud link of the song files.
-6: Used filebin cloud service.
+6. Used filebin cloud service.
